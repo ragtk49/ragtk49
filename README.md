@@ -4,7 +4,7 @@
 
 I am an experienced full-stack developer who is excited to build innovative solutions to complex problems. I love to explore different technologies and experiment with them to get hands-on and be relevant in the current scene. Creating new applications from scratch is fun and a great learning opportunity.
 
-<img width="100px" src="![Profile_Image](https://github.com/ragtk49/ragtk49/assets/77735586/5ac91f6e-9a8c-4af8-94e8-807e3ae845fd)
+<img width="100px" src="https://github.com/ragtk49/ragtk49/assets/77735586/5ac91f6e-9a8c-4af8-94e8-807e3ae845fd
 "/>
 
 ---
